@@ -1,4 +1,23 @@
 # 0246AL221061
+url-shortener-app/
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── src/
+│   ├── components/
+│   │   ├── UrlShortener.js
+│   │   └── UrlStatistics.js
+│   ├── pages/
+│   │   ├── ShortenerPage.js
+│   │   └── StatisticsPage.js
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   └── index.css
+├── package.json
+└── README.md
+
+
 # URL Shortener React Application
 
 A React-based URL shortener application built with Material UI that allows users to shorten up to 5 URLs concurrently.
