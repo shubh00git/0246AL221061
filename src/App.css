@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.url-form {
+  margin-top: 20px;
+}
+
+.url-item {
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.success-message {
+  color: #2e7d32;
+  margin-top: 10px;
+}
+
+.error-message {
+  color: #d32f2f;
+  margin-top: 10px;
+}
+
+.copy-button {
+  margin-left: 10px;
+}
+
+.statistics-table {
+  margin-top: 20px;
+}
